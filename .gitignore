@@ -1,0 +1,7 @@
+build/
+*/build
+*/out
+**/.gradle/
+/statecontainer.code-workspace
+**/*.bak
+*.swp
